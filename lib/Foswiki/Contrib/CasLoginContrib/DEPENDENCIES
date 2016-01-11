@@ -1,0 +1,4 @@
+# Dependencies for CasLoginContrib
+# Example:
+AuthCAS,>=1.5,cpan,Required.
+
