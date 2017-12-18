@@ -1,4 +1,4 @@
 # Dependencies for CasLoginContrib
 # Example:
-AuthCAS,>=1.5,cpan,Required.
+Foswiki::Plugins::WorkflowAppPlugin,>=1.0,perl,Required.
 
