@@ -1,4 +1,15 @@
 # Dependencies for CasLoginContrib
 # Example:
-AuthCAS,>=1.5,cpan,Required.
-
+Foswiki::Contrib::CustomDGBBildungswerkVacationRequestAppContrib,>=1.0,perl,Required.
+Foswiki::Contrib::CustomInvestmentAppContrib,>=1.0,perl,Required.
+Foswiki::Contrib::CustomMultiLanguageSaveContrib,>=1.0,perl,Required.
+Foswiki::Contrib::CustomEightDReportAppContrib,>=1.0,perl,Required.
+Foswiki::Contrib::CustomVacationRequestAppContrib,>=1.0,perl,Required.
+Foswiki::Contrib::CustomProcessPlanningAppContrib,>=1.0,perl,Required.
+Foswiki::Plugins::CustomJQueryDragableTablePlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomAttachmentFormfieldPlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomCustomerPlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomRedmineIntegrationPlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomRecordChangesPlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomKnowledgeFormPlugin,>=1.0,perl,Required.
+Foswiki::Plugins::CustomTimeTrackerPlugin,>=1.0,perl,Required.
